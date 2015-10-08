@@ -1,4 +1,4 @@
-class printprime
+class PrintPrimeNumbers
 {
 	public static void main(String[] args)
 	{

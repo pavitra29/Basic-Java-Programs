@@ -1,4 +1,4 @@
-class factorial
+class FactorialOfNumber
 {
 	public static void main(String[] args)
 	{
